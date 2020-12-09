@@ -1,4 +1,4 @@
-package com.trackerreset.TrackerReset;
+package com.trackerreset;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
